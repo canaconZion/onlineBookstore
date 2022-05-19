@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	width: 100%;
+	height: 100%;
+	background: #333;
+}
+.wrapper{
+	width: 100%;
+	height: 100%;
+}
+
+form{
+	width: 600px;
+	height: 300px;
+	border: 2px solid #888;
+	border-radius: 30px;
+	margin: 100px auto;
+	color:#0099cc;
+}
+h3{
+	margin-left: 200px;
+}
+.it{
+	width: 99%;
+	height: 30px;
+	border-radius: 12px;
+	margin-top: 10px;
+	margin-bottom: 2px;
+	border: 1px solid #888;
+}
+#login_btn{
+	width: 100%;
+	height: 35px;
+	background: #0099CC;
+	border-radius: 15px;
+	margin-top: 20px;
+	border: 1px solid #0099CC;
+	color: white;
+}
+.login_btn{
+	cursor: pointer;
+}

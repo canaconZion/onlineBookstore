@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #333333;
+}
+.wrapper{
+	width: 100%;
+	height: 100%;
+}
+.title{
+	width: 100%;
+	height: 45px;
+	/*background: #0099CC;*/
+	margin: 50px auto;
+	text-align: center;
+	line-height: 45px;
+	font-size: 30px;
+	color:#888;
+}
+
+form{
+	width: 600px;
+	height: 300px;
+	margin: auto;
+	font-size: 25px;
+	color: white;
+}
+#t-name{
+	width: 600px;
+	height: 30px;
+	border-radius: 10px;
+	font-size: 25px;
+}
+#t-txt{
+	width: 600px;
+	height: 200px;
+	font-size: 25px;
+}
+#t-btn{
+	width: 120px;
+	height: 35px;
+	background: #0099CC;
+	border-radius: 10px;
+	text-align: center;
+	color:white;
+	font-size: 20px;
+	margin-top: 10px;
+	border: 1px solid #0099CC;
+	cursor: pointer;
+	font-weight: 100;
+}

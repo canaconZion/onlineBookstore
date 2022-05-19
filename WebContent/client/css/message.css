@@ -1,0 +1,37 @@
+#pname{
+	width: 120px;
+	height: 40px;
+	/*background: lightgreen;*/
+	margin: -150px 250px;
+	color:black;/* 字体颜色 */
+	font-size: 25px;/* 字体大小 */
+	text-align: left;/* 文本靠左 */
+	line-height: 40px;/* 垂直居中 */
+}
+#content{
+	width: 600px;
+	height: 40px;
+	/*background: lightgreen;*/
+	margin: 180px 250px;
+	color: black;
+	font-size: 25px;
+	text-align: left;
+}
+.main_box{
+	width: 1200px;
+	height: 250px;
+	border: 2px solid #888;
+	margin: 50px auto;
+	border-radius: 20px;
+}
+.main {
+	margin: 0px 0px 30px 0px;
+	padding: 0px 0px 0px 0px;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 150%;
+	color: #000000; /*#666666*/
+	text-align: center;
+	vertical-align: top;
+}
